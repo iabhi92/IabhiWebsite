@@ -74,3 +74,18 @@ hr{
      text-align: center;
      width: 40%;
 }
+.programmer{
+    height: 150px;
+    width:auto;
+}
+.skill{
+    height: 200px;
+    width: auto;
+}
+.skill1{
+    height: 200px;
+    width:auto
+}
+.BottomContainer{
+    background-color:aliceblue;
+}
